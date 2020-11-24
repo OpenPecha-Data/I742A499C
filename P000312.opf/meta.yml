@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W23794
   title: བཤེས་པའི་འཕྲིན་ཡིག་གི་ཊཱི་ཀ།
-  volume: ''
+  volume:
+    9d0e5ca689bf4df2a6db5a9773896d90:
+      image_group_id: I2772
+      title: ''
+      volume_number: 1
+      total_pages: 266
   author: ''
+ebook_metadata:
+  title: བཤེས་པའི་འཕྲིན་ཡིག་གི་ཊཱི་ཀ།
+  author: ''
+  sku: P000312
+  cover: cover.jpg
+  layers:
+  - pagination
